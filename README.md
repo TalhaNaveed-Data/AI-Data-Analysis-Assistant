@@ -15,7 +15,7 @@ Upload any Excel or CSV file. AI analyzes it and gives you smart insights.
 - Streamlit Web App
 
 ## Live Demo:
-[Link yahan dalo]
+https://ai-data-analysis-assistant-mzsx22yyyw5h5sd5vmfz7t.streamlit.app/
 
 ## My Portfolio:
 https://github.com/TalhaNaveed-Data
