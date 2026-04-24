@@ -30,7 +30,7 @@ if uploaded_file and api_key:
     # AI se analysis
     if st.button("🤖 AI Se Analysis Karwao"):
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-pro')
+        model = genai.GenerativeModel('gemini-3-flash-preview')
         
         prompt = f"""
         Mera data analysis karo. Meri file mein {len(df)} rows aur {len(df.columns)} columns hain.
