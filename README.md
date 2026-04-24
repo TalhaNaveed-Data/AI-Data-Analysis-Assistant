@@ -1,18 +1,20 @@
 # AI Data Analysis Assistant
 
-## What it does:
-Upload any Excel or CSV file. AI analyzes it and gives you smart insights.
+**What I built:**
+A web app where users upload CSV/Excel files and get AI-powered insights.
 
-## How to use:
-1. Enter Gemini API key
-2. Upload your file
-3. Click analyze
+**How I built it:**
+- Used Google Gemini AI to generate analysis
+- Used Streamlit for web interface
+- Deployed on Streamlit Cloud (live app)
 
-## Skills shown:
-- Python
-- Google Gemini AI
-- Data Analysis (Pandas)
-- Streamlit Web App
+**Skills demonstrated:**
+- AI integration (Gemini API)
+- Web app deployment
+- Prompt engineering for data analysis
+- Problem solving (debugged model errors)
+
+**Note:** Code assisted by AI, fully tested and deployed by me.
 
 ## Live Demo:
 https://ai-data-analysis-assistant-mzsx22yyyw5h5sd5vmfz7t.streamlit.app/
